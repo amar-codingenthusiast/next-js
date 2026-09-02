@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"name": "John",
+		"bio": "Software engineer from California.",
+		"skills": ["JavaScript", "Python", "React"]
+	},
+	{
+		"id": 2,
+		"name": "Jane",
+		"bio": "Graphic designer from New York.",
+		"skills": ["Photoshop", "Illustrator", "Figma"]
+	},
+	{
+		"id": 3,
+		"name": "Mike",
+		"bio": "Product manager from Texas.",
+		"skills": ["Project Management", "Agile", "Scrum"]
+	}
+]
